@@ -1,10 +1,15 @@
 # Find-New-Music-Api
 RESTful API created using Node.js that returns similar songs depending on a given song and artist name.
 
-# Endpoint
+### Endpoint
 https://find-new-music-api.herokuapp.com/getSimilarTracks
 
-Required Parameters-
-track: Title of song, artist: Name of artist
+### Required Parameters
+track: Title of song, 
 
-Make sure that the title of the song and name of the artist are as accurate as possible.
+artist: Name of artist
+
+Make sure that the title of the song and name of the artist are as accurate as possible :).
+
+### Test it out!
+https://find-new-music-api-app.firebaseapp.com/
