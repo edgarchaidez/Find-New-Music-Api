@@ -1,5 +1,5 @@
 # Find-New-Music-Api
-RESTful API created using Node.js that returns similar songs depending on a given song and artist name.
+RESTful API created using Node and Express.js that returns similar songs depending on the song and artist name that it is given.
 
 ### Endpoint
 https://find-new-music-api.herokuapp.com/getSimilarTracks
